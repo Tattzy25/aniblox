@@ -1,0 +1,6 @@
+{
+  "name": "Aniblox",
+  "description": "Block-based 3D world creation engine, Lua scripting studio, multiplayer social hub, avatar customizer, and virtual economy platform.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
